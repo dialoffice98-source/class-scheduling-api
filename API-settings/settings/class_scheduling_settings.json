@@ -1,0 +1,19 @@
+{
+    "daftar_hari": ["Senin", "Selasa", "Rabu", "Kamis", "Jumat"],
+    "waktu_mulai_terawal": "07:00",
+    "waktu_selesai_terakhir": "17:00",
+    "interval": 60,
+    "penalti": {
+	"utilisasi_ruangan": 1,
+	"jumlah_ruangan": 1,
+	"maks_jam_mengajar": 1,
+	"preferensi_dosen": 1
+    },
+    "optimization_settings": {
+	"num_search_workers": 4,
+    	"linearization_level": 2,
+    	"symmetry_level": 2,
+    	"relative_gap_limit": 0.005,
+    	"max_time_mins": 10
+    }
+}

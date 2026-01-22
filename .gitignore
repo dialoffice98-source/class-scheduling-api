@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+
+# Environment variables
+.env
+.envlocal
+
+# Runtime storage / generated files
+storage/
+
+# Logs
+*.log
+
+# Editors & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Docker (optional)
+*.pid

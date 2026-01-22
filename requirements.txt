@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+celery
+redis
+pymongo
+motor
+pydantic-settings
+python-dotenv
+ortools
+pandas
+openpyxl
+python-multipart

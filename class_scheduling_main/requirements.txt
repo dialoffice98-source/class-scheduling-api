@@ -1,0 +1,6 @@
+pandas==2.3.3
+ortools==9.12.4544
+dotenv==0.9.9
+SQLAlchemy==2.0.44
+plotly==6.5.0
+pymoo==0.6.1.6

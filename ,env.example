@@ -1,0 +1,5 @@
+MONGO_URI=mongodb://mongo:27017
+MONGO_DB_NAME=class_scheduling
+
+CELERY_BROKER_URL=redis://redis:6379/0
+CELERY_RESULT_BACKEND=redis://redis:6379/0

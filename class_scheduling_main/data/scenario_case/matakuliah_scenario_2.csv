@@ -1,0 +1,50 @@
+JadwalID,MKKode,MatakuliahNama,KelasID,SesiID,DosenID,DosenNama,KapasitasKelas,DurasiJam,PaketID,PaketNama
+FM603002-K01-J01,FM603002,Pendidikan Karakter dan Etika,K01,1,882,Dosen E,74,1,0,Umum
+FM603002-K01-J02,FM603002,Pendidikan Karakter dan Etika,K01,2,882,Dosen E,74,2,0,Umum
+FM603002-K03-J01,FM603002,Pendidikan Karakter dan Etika,K03,1,882,Dosen E,74,1,0,Umum
+FM603002-K03-J02,FM603002,Pendidikan Karakter dan Etika,K03,2,882,Dosen E,74,2,0,Umum
+FM603002-K02-J01,FM603002,Pendidikan Karakter dan Etika,K02,1,1120,Dosen F,55,1,0,Umum
+FM603002-K02-J02,FM603002,Pendidikan Karakter dan Etika,K02,2,1120,Dosen F,55,2,0,Umum
+FM603002-K04-J01,FM603002,Pendidikan Karakter dan Etika,K04,1,1120,Dosen F,55,1,0,Umum
+FM603002-K04-J02,FM603002,Pendidikan Karakter dan Etika,K04,2,1120,Dosen F,55,2,0,Umum
+FM603002-K05-J01,FM603002,Pendidikan Karakter dan Etika,K05,1,882,Dosen E,74,1,0,Umum
+FM603002-K05-J02,FM603002,Pendidikan Karakter dan Etika,K05,2,882,Dosen E,74,2,0,Umum
+FM603002-K06-J01,FM603002,Pendidikan Karakter dan Etika,K06,1,1120,Dosen F,55,1,0,Umum
+FM603002-K06-J02,FM603002,Pendidikan Karakter dan Etika,K06,2,1120,Dosen F,55,2,0,Umum
+TI601004-K01-J01,TI601004,Kalkulus 1,K01,1,1724,Dosen G,83,2,1,TahunPertama
+TI601004-K01-J02,TI601004,Kalkulus 1,K01,2,1724,Dosen G,83,2,1,TahunPertama
+TI601004-K02-J01,TI601004,Kalkulus 1,K02,1,651,Dosen B,55,2,1,TahunPertama
+TI601004-K02-J02,TI601004,Kalkulus 1,K02,2,651,Dosen B,55,2,1,TahunPertama
+TI601004-K03-J01,TI601004,Kalkulus 1,K03,1,1724,Dosen G,83,2,1,TahunPertama
+TI601004-K03-J02,TI601004,Kalkulus 1,K03,2,1724,Dosen G,83,2,1,TahunPertama
+TI601004-K04-J01,TI601004,Kalkulus 1,K04,1,651,Dosen B,55,2,1,TahunPertama
+TI601004-K04-J02,TI601004,Kalkulus 1,K04,2,651,Dosen B,55,2,1,TahunPertama
+TI601004-K05-J01,TI601004,Kalkulus 1,K05,1,1724,Dosen G,83,2,1,TahunPertama
+TI601004-K05-J02,TI601004,Kalkulus 1,K05,2,1724,Dosen G,83,2,1,TahunPertama
+TI601005-K02-J01,TI601005,Fisika Dasar 1,K02,1,649,Dosen A,55,2,1,TahunPertama
+TI601005-K02-J02,TI601005,Fisika Dasar 1,K02,2,649,Dosen A,55,3,1,TahunPertama
+TI601005-K01-J02,TI601005,Fisika Dasar 1,K01,1,738,Dosen C,73,2,1,TahunPertama
+TI601005-K01-J01,TI601005,Fisika Dasar 1,K01,2,738,Dosen C,73,3,1,TahunPertama
+TI601005-K03-J01,TI601005,Fisika Dasar 1,K03,1,649,Dosen A,55,2,1,TahunPertama
+TI601005-K03-J02,TI601005,Fisika Dasar 1,K03,2,649,Dosen A,55,3,1,TahunPertama
+TI601005-K04-J02,TI601005,Fisika Dasar 1,K04,1,738,Dosen C,73,2,1,TahunPertama
+TI601005-K04-J01,TI601005,Fisika Dasar 1,K04,2,738,Dosen C,73,3,1,TahunPertama
+TI601005-K05-J02,TI601005,Fisika Dasar 1,K05,1,738,Dosen C,73,2,1,TahunPertama
+TI601005-K05-J01,TI601005,Fisika Dasar 1,K05,2,738,Dosen C,73,3,1,TahunPertama
+TI601006-K02-J01,TI601006,Kimia Dasar 1,K02,1,827,Dosen D,55,2,1,TahunPertama
+TI601006-K02-J02,TI601006,Kimia Dasar 1,K02,2,827,Dosen D,55,2,1,TahunPertama
+TI601006-K01-J01,TI601006,Kimia Dasar 1,K01,1,1739,Dosen H,73,2,1,TahunPertama
+TI601006-K01-J02,TI601006,Kimia Dasar 1,K01,2,1739,Dosen H,73,2,1,TahunPertama
+TI601006-K03-J01,TI601006,Kimia Dasar 1,K03,1,827,Dosen D,73,2,1,TahunPertama
+TI601006-K03-J02,TI601006,Kimia Dasar 1,K03,2,827,Dosen D,73,2,1,TahunPertama
+TI601006-K04-J01,TI601006,Kimia Dasar 1,K04,1,1739,Dosen H,55,2,1,TahunPertama
+TI601006-K04-J02,TI601006,Kimia Dasar 1,K04,2,1739,Dosen H,55,2,1,TahunPertama
+TI601006-K05-J01,TI601006,Kimia Dasar 1,K05,1,1739,Dosen H,55,2,1,TahunPertama
+TI601006-K05-J02,TI601006,Kimia Dasar 1,K05,2,1739,Dosen H,55,2,1,TahunPertama
+TI601019-K01-J01,TI601019,Matriks & Ruang Vektor,K01,1,651,Dosen B,55,2,0,Umum
+TI601019-K02-J01,TI601019,Matriks & Ruang Vektor,K02,1,1724,Dosen G,49,2,0,Umum
+TI601022-K01-J01,TI601022,Penelitian Operasional 1,K01,1,1739,Dosen H,55,3,0,Umum
+TI601022-K02-J01,TI601022,Penelitian Operasional 1,K02,1,649,Dosen A,49,3,0,Umum
+TI601022-K03-J01,TI601022,Penelitian Operasional 1,K03,1,649,Dosen A,49,3,0,Umum
+TI601022-K04-J01,TI601022,Penelitian Operasional 1,K04,1,1739,Dosen H,55,3,0,Umum
+TI601022-K05-J01,TI601022,Penelitian Operasional 1,K05,1,649,Dosen A,49,3,0,Umum

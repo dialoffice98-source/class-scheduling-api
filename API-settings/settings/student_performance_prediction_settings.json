@@ -1,0 +1,36 @@
+{
+  "lgbm_params": {
+    "model__regressor__n_estimators": [200, 500, 800],
+    "model__regressor__learning_rate": [0.05, 0.1],
+    "model__regressor__num_leaves": [31, 63, 127],
+    "model__regressor__max_depth": [-1],
+    "model__regressor__subsample": [0.8],
+    "model__regressor__colsample_bytree": [0.8],
+    "model__regressor__reg_alpha": [0.1, 1],
+    "model__regressor__reg_lambda": [0.1, 1],
+    "model__regressor__min_child_samples": [5, 8]
+  },
+  "objective": "mean_absolute_error",
+  "grid_search": {
+    "cv": 10,
+    "scoring": "neg_mean_absolute_error",
+    "n_jobs": -1,
+    "verbose": 1
+  },
+  "key_cities": [
+    "Kab. Bandung",
+    "Kab. Bandung Barat",
+    "Kota Cimahi",
+    "Kab. Karawang",
+    "Kab. Sumedang",
+    "Kab. Bogor"
+  ],
+  "validation_shap": {
+    "enabled": true,
+    "n_samples": "auto"
+  },
+  "ips_bins": [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0],
+  "balancing": {
+    "target_samples_per_class": "auto"
+  }
+}

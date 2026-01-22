@@ -1,0 +1,12 @@
+.env
+*.ipynb
+analysis/
+__pycache__/
+.venv/
+Old/
+playground/
+source/test.py
+timetables_s1_teknik_industri_2024_2025_ganjil/
+playground_result/
+timetables_test/
+/output
